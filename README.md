@@ -1,0 +1,8 @@
+## UNIVERSAL-HWID-SPOOFER-UPDATED-26.03.2024
+## NEW VERSION OF HWID SPOOFER FOR RUST/APEX/VALORANT/EFT/SOT/ROBLOX/WARZONE/FORTNITE/GENSHIN/DAYZ/DOTA/PUBG
+
+![image](https://github.com/Astowenc/UNIVERSAL-HWID-SPOOFER/assets/164934182/1bc62ef0-fcfe-4715-bbfc-175d492b55c6)
+
+## How to use?
+- Extract files, UniversalSpoofer.exe.
+- Press f8 to open Menu.
